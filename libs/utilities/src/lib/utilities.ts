@@ -1,1 +1,1 @@
-export const pizza = '🍕🍔';
+export const pizza = '🍕';
