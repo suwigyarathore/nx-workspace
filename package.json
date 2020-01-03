@@ -39,12 +39,16 @@
     "@angular/router": "^8.2.0",
     "@nrwl/angular": "^8.9.0",
     "core-js": "^2.5.4",
-    "rxjs": "~6.4.0",
-    "zone.js": "^0.9.1",
     "document-register-element": "1.13.1",
     "react": "16.12.0",
     "react-dom": "16.12.0",
-    "react-router-dom": "5.1.2"
+    "react-router-dom": "5.1.2",
+    "rxjs": "~6.4.0",
+    "zone.js": "^0.9.1",
+    "@nestjs/common": "^6.8.3",
+    "@nestjs/core": "^6.8.3",
+    "@nestjs/platform-express": "^6.8.3",
+    "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
     "@angular/cli": "8.3.14",
@@ -73,6 +77,10 @@
     "@types/react-dom": "16.9.4",
     "@testing-library/react": "9.3.2",
     "@types/react-router-dom": "5.1.2",
-    "@babel/preset-react": "7.7.4"
+    "@babel/preset-react": "7.7.4",
+    "@nrwl/node": "8.9.0",
+    "@nestjs/schematics": "^6.7.0",
+    "@nestjs/testing": "^6.8.3",
+    "@nrwl/nest": "8.9.0"
   }
 }

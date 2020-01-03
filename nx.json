@@ -22,6 +22,12 @@
     },
     "utilities": {
       "tags": ["ui user"]
+    },
+    "api": {
+      "tags": []
+    },
+    "interfaces": {
+      "tags": []
     }
   }
 }
