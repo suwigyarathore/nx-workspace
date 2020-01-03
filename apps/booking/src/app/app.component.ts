@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { pizza } from '@nx-sample/utilities';
 
 @Component({
   selector: 'nx-sample-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'booking';
+  title = ` ${pizza} booking`;
 }

@@ -19,6 +19,9 @@
     },
     "admin-e2e": {
       "tags": []
+    },
+    "utilities": {
+      "tags": ["ui user"]
     }
   }
 }

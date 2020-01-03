@@ -1,4 +1,5 @@
 import React from 'react';
+import { pizza } from '@nx-sample/utilities';
 
 import './app.scss';
 
@@ -18,7 +19,7 @@ export const App = () => {
           width="75"
           src="https://nx.dev/assets/images/nx-logo-white.svg"
         />
-        <h1>Welcome to admin!</h1>
+        <h1>Welcome to {pizza} admin!</h1>
       </header>
       <main>
         <h2>Resources &amp; Tools</h2>
